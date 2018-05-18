@@ -9,8 +9,8 @@ Welcome to PythonBook's documentation!
 .. toctree::
    :maxdepth: 2
    
-   first
-   second
+   高级特性/first
+   高级特性/second
 
 
 
